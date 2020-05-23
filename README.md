@@ -30,5 +30,4 @@ Research portion:
 2. According to a 2008 estimate by the Federal Highway Authority, what interstate is the most-heavily traveled in terms of 
 vehicles per day?
 
-3.The band Death Cab for Cutie wrote a song called 405 about Interstate 405. In what city/state was the band formed, and why is 
-it unlikely that the song is about the Interstate 405 that runs through Southern California?
+3. The band Death Cab for Cutie wrote a song called 405 about Interstate 405. In what city/state was the band formed, and why is it unlikely that the song is about the Interstate 405 that runs through Southern California?
